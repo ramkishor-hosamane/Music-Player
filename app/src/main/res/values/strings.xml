@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lets Play</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alert">Hey</string>
+    <string name="dismiss">fff</string>
+    <string name="playsis">playlist fragment</string>
+</resources>
